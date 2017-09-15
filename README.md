@@ -1,5 +1,5 @@
 # IncendioForestal
-Simulacion de incendio forestal
+Simulacion de incendio forestal teniendo en cuenta diferentes factores como la direccion del viento o la potencia del mismo
 
 Realizada junto a Juan Carlos Ruiz Garcia --> https://github.com/juanka1995
 
