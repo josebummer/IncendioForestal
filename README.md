@@ -1,7 +1,7 @@
 # IncendioForestal
 Simulacion de incendio forestal
 
-Realizada junto a --> https://github.com/juanka1995
+Realizada junto a Juan Carlos Ruiz Garcia --> https://github.com/juanka1995
 
 # Para el correcto funcionamiento:
 
