@@ -20,4 +20,4 @@ $(BIN)/main: $(OBJ)/incendioforestal.o $(OBJ)/main.o
 
 
 clean:
-	rm bin/* obj/* *.txt
+	rm bin/* obj/*
